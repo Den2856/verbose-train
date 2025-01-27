@@ -623,6 +623,10 @@ p, a, button, li, label, span {
     font-size: 12px;
   }
 
+  .slider__title {
+  font-size: 28px;
+}
+
   .services__grid {
     grid-template-columns: 1fr;
   }
